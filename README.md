@@ -1,8 +1,8 @@
-## Motor-vehicles-EDA
+## Electric-vehicle-EDA
 
 ### Overview
 
-This project aimed to answer a number of uestions including identifying market trends and adoption patterns and vehicle performance and range analysis
+This project aimed to answer a number of questions including identifying market trends and adoption patterns and vehicle performance and range analysis of electric vehicles.
 To accomplish this, the project employed a variety of Python libraries and techniques including data manipulation and analysis with pandas and numpy, as well as visualization with matplotlib, seaborn, and Plotly. The project's workflow included data cleaning, exploratory data analysis (EDA) and feature engineering.
 
 ### Problem Addressed
@@ -26,4 +26,4 @@ The primary problem tackled was finding answers to:
 
 ### Conclusion
 
-This project, successfully was able to provide valuable insights into the market trends and motor vehicle adoption patterns. The project also provided for insights in regional distribution and impact of motor vehicles on environment.
+This project, successfully was able to provide valuable insights into the market trends and electric vehicle adoption patterns. The project also provided for insights in regional distribution and impact of motor vehicles on environment.
